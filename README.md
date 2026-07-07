@@ -13,7 +13,7 @@ uv sync
 
 ## How to use
 
-A friendly introduction and end-to-end example of the probe proposed in this work is in <notebooks/reference.iypnb>.
+A friendly introduction and end-to-end example of the probe proposed in this work is in [notebooks/reference.iypnb](notebooks/reference.iypnb).
 Other notebooks and scripts were used to produce the experiments in the paper.
 
 
