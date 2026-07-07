@@ -1,4 +1,4 @@
-# sin-param
+# LMs Learn Universal Representations of Numbers 
 
 This is the official repository for the ACL 2026 paper: *[Language Models Learn Universal Representations of Numbers and Here’s Why You Should Care](https://aclanthology.org/2026.acl-long.1415/)*.
 
