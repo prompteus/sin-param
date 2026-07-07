@@ -13,7 +13,8 @@ uv sync
 
 ## How to use
 
-`notebooks/reference.iypnb` contains a reference implementation of the probe proposed in this work. Other notebooks and scripts were used to produce the experiments in the paper.
+A friendly introduction and end-to-end example of the probe proposed in this work is in <notebooks/reference.iypnb>.
+Other notebooks and scripts were used to produce the experiments in the paper.
 
 
 ## Citation
