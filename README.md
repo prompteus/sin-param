@@ -5,6 +5,8 @@ This is the official repository for the ACL 2026 paper: *[Language Models Learn 
 
 ## How to set up 
 
+The project uses `uv` for managing the Python virtual environment. 
+
 ```shell
 git clone ...
 cd ...
