@@ -1,6 +1,6 @@
 # LMs Learn Universal Representations of Numbers 
 
-This is the official repository for the ACL 2026 paper: *[Language Models Learn Universal Representations of Numbers and Here’s Why You Should Care](https://aclanthology.org/2026.acl-long.1415/)*.
+This repo contains a minimal, transferrable implementation of the new param-sin probe and experiments from our paper *[Language Models Learn Universal Representations of Numbers and Why You Should Care](https://arxiv.org/pdf/2510.26285)*.
 
 
 ## How to set up 
@@ -15,7 +15,8 @@ uv sync
 
 ## How to use
 
-A friendly introduction and end-to-end example of the probe proposed in this work is in [notebooks/reference.ipynb](notebooks/reference.ipynb).
+**See [notebooks/reference.ipynb](notebooks/reference.ipynb) with the implementation and end-to-end example of how to use the new param-sin probe.**
+
 Other notebooks and scripts were used to produce the experiments in the paper.
 
 
